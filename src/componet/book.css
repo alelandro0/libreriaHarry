@@ -1,0 +1,19 @@
+.title-boton{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 0,5rem;
+}
+h1{
+    color: white;
+    margin-left: 2.4rem;
+    font-size: 40PX;
+}
+button{
+    height: 40px;
+    margin: 2.5rem;
+    width: 590px;
+    font-size: 30px;
+    color: white;
+    background:green ;
+}

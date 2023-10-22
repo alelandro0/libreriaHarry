@@ -1,0 +1,43 @@
+/* subCard.css */
+
+/* Estilo para el título */
+h1 {
+    color: white;
+  }
+  
+  /* Estilo para la tabla */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+  }
+  
+  /* Estilo para las celdas del encabezado */
+  th {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  /* Estilo para las celdas de datos */
+  td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+  }
+  
+  /* Estilo para el botón Agregar al carrito */
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Estilo para el botón Eliminar */
+  button.eliminar {
+    background-color: red;
+  }
+  

@@ -1,0 +1,15 @@
+.bordes{
+    border-bottom: 4px solid green;
+}
+li{
+    list-style: none;
+    font-size: 60px;
+    text-align: start;
+}
+.title{
+    color: black;
+}
+body{
+    background: black;
+}
+  

@@ -1,0 +1,61 @@
+/* Card.css */
+.product-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .product-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .product-card h3 {
+    font-size: 18px;
+    margin: 8px 0;
+  }
+  
+  .product-card p {
+    font-size: 14px;
+    margin: 8px 0;
+  }
+  
+  .product-card label {
+    font-size: 14px;
+  }
+  
+  .product-card input {
+    width: 60px;
+  }
+  
+  .product-card button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px auto;
+    margin-top: 8px;
+    cursor: pointer;
+  }
+  .containerFather{
+    display: flex;
+    padding: 2rem;
+  }
+  .btnCard{
+    margin: 0%;
+    margin-top: 70px;
+    padding-bottom: 3rem;
+  }
+  .texto{
+    font-size: 25px;
+  }
+  .contenido1{
+    padding: 1.5rem;
+  }
+  .product-card button:hover {
+    background-color: #0056b3;
+  }
+.add{
+    width: 250px
+}  
